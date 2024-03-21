@@ -1,7 +1,7 @@
 
 
 # 💫 Hi , I am Sadiksha!
-✍️ Self-taught frontend engineer. <br>👩🏻‍💻Currently learning about web development and want to become full stack engineer. 
+✍️ Self-taught frontend engineer. <br>👩🏻‍💻Currently learning about web development and want to become Full Stack Engineer. 
 
 
 # 💻 Tech Stack:
